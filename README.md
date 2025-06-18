@@ -240,11 +240,11 @@ Set `NODE_ENV=development` in .env file for detailed error messages.
 3. Set environment variables (OPENWEATHER_API_KEY)
 4. Deploy
 
-### Environment Variables for Production:
+### Environment Variables:
 ```
 OPENWEATHER_API_KEY=your_production_api_key
 PORT=3000
-NODE_ENV=production
+NODE_ENV=development 
 ```
 
 ## Future Enhancements
