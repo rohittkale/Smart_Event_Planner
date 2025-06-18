@@ -234,7 +234,7 @@ Set `NODE_ENV=development` in .env file for detailed error messages.
 
 ## Deployment
 
-### Deploy to Railway/Render/Heroku:
+### Deploy to Railway/Render:
 1. Push code to GitHub repository
 2. Connect to deployment platform
 3. Set environment variables (OPENWEATHER_API_KEY)
@@ -255,6 +255,3 @@ NODE_ENV=development
 - Historical weather data analysis
 - Mobile app integration
 - Advanced caching strategies
-
-## License
-MIT License
